@@ -1,0 +1,36 @@
+ckpt_dir: ./ckpts
+output_dir: ./outputs/v2st
+sample_steps: 50
+solver_name: unipc
+model_name: "960x960_10s"
+shift: 5.0
+sp_size: 1
+audio_guidance_scale: 5.0
+mode: "vt2a"
+fp8: False
+cpu_offload: False
+sample_rate: 16000
+seed: 103
+audio_negative_prompt: "robotic, muffled, echo, distorted"
+cfg_zero_video_features_in_negative: true
+cfg_apply_to_clip_features: true
+cfg_apply_to_sync_features: true
+slg_layer: 11
+each_example_n_times: 1
+
+# Batch JSON mode
+json_file: ./examples/video_text_example.json
+
+# Single-video mode
+# video_path: ./examples/videos/275479616d1e67011433019eb0d5692c_raw.mp4
+# text_prompt: "[WORDS]Let’s open this.[END_WORDS][AUDIO_CAPTION]A clear, neutral English-speaking elderly voice is accompanied by the loud peeling of packing tape, the creaking of cardboard flaps opening, and soft paper rustling from inside the box[END_AUDIO_CAPTION]"
+
+# Optional pre-extracted features
+# clip_features_path: /path/to/clip_features.npy
+# sync_features_path: /path/to/sync_features.npy
+
+duration: 10.0
+audio_only: False
+
+# Released Foley-Omni checkpoint path
+model_checkpoint: ./ckpts/Foley-Omni/v2st.pth

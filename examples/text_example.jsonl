@@ -1,0 +1,9 @@
+{"id":"music_001","text_prompt":"[MUSIC]The low quality recording features a ballad song that contains sustained strings, mellow piano melody and soft female vocal singing over it. It sounds sad and soulful, like something you would hear at Sunday services.[END_MUSIC]"}
+{"id":"music_002","text_prompt":"[MUSIC]A male singer sings this groovy melody. The song is a techno dance song with a groovy bass line, strong drumming rhythm and a keyboard accompaniment. The song is groovy and serves as a dance track.[END_MUSIC]"}
+{"id":"music_003","text_prompt":"[MUSIC]This song is a vigorous metal instrumental. The tempo is fast with intense drumming, fiery electric guitar riff, amplified guitar rhythms and energetic keyboard accompaniment.[END_MUSIC]"}
+{"id":"audio_001","text_prompt":"[AUDIO_CAPTION]A rocket flies by followed by a loud explosion and fire crackling as a truck engine runs idle[END_AUDIO_CAPTION]"}
+{"id":"audio_002","text_prompt":"[AUDIO_CAPTION]Food is frying, and a woman talks[END_AUDIO_CAPTION]"}
+{"id":"audio_003","text_prompt":"[AUDIO_CAPTION]A train running on a railroad track followed by a vehicle door closing and a man talking in the distance while a train horn honks and railroad crossing warning signals ring[END_AUDIO_CAPTION]"}
+{"id":"speech_001","text_prompt":"[WORDS]Miss Milner's health is not good[END_WORDS]"}
+{"id":"speech_002","text_prompt":"[WORDS]Out in the woods stood a nice little Fir Tree.[END_WORDS]"}
+{"id":"speech_003","text_prompt":"[WORDS]Perhaps I am mistaken, answered she.[END_WORDS]"}

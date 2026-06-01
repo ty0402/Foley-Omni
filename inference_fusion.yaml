@@ -1,0 +1,22 @@
+ckpt_dir: ./ckpts
+output_dir: ./outputs/text_only
+sample_steps: 50
+solver_name: unipc
+model_name: "960x960_10s"
+shift: 5.0
+sp_size: 1
+audio_guidance_scale: 3.0
+mode: "vt2a"
+fp8: False
+cpu_offload: False
+sample_rate: 16000
+seed: 103
+audio_negative_prompt: "robotic, muffled, echo, distorted"
+
+# A single prompt string, or a path to a .csv / .tsv / .json / .jsonl file
+# containing a `text_prompt` field.
+text_prompt: ./examples/text_example.jsonl
+
+slg_layer: 11
+each_example_n_times: 1
+model_checkpoint: ./ckpts/Foley-Omni/v2st.pth

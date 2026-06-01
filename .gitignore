@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.cache/
+.DS_Store
+
+ckpts/
+outputs/
+hf_release/
+tmp/
+
+*.log

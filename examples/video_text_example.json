@@ -1,0 +1,40 @@
+{
+  "./examples/videos/721ecf7c92d162bd2d74820f72f68d41.mp4": {
+    "resp": "[WORDS]That car came by faster than I expected.[END_WORDS][AUDIO_CAPTION]A clear, neutral English-speaking voice is accompanied by the sound of a car passing on a quiet urban street. The vehicle engine gradually approaches from the left side of the frame, becomes louder as the car drives behind the speaker, and then fades away as the car exits to the right. Soft tire rolling sounds and subtle daytime street ambience are synchronized with the car’s visible movement.[END_AUDIO_CAPTION]",
+    "audio_duration": 10.375
+  },
+  "./examples/videos/275479616d1e67011433019eb0d5692c_raw.mp4": {
+    "resp": "[WORDS]Let’s open this.[END_WORDS][AUDIO_CAPTION]A clear, neutral English-speaking elderly voice is accompanied by the loud peeling of packing tape, the creaking of cardboard flaps opening, and soft paper rustling from inside the box[END_AUDIO_CAPTION]",
+    "audio_duration": 5.1
+  },
+  "./examples/videos/d4ca83fdd042c8910d3358151dc4e6cd.mp4": {
+    "resp": "[WORDS]This drink sounds really fresh when it opens.[END_WORDS][AUDIO_CAPTION]A soft, clear, neutral English-speaking young female voice is accompanied by the crisp click of a soda can opening, bright fizzing bubbles, and soda pouring into a glass, with gentle low-volume piano and acoustic guitar music.[END_AUDIO_CAPTION][MUSIC]Music is present in this clip. The style is light cheerful lifestyle background music. It features gentle piano and soft acoustic guitar,. The tempo is medium. The mood is fresh, relaxed, bright, and pleasant. Style notes: soft low-volume background music suitable for a casual daily-life scene[END_MUSIC]",
+    "audio_duration": 5.1
+  },
+  "./examples/videos/e2196298597da4436f482739bcc30bc9.mp4": {
+    "resp": "[WORDS]Okay, let’s go for a walk.[END_WORDS][AUDIO_CAPTION]A clear young female voice with neutral standard English pronunciation and no noticeable accent speaks in the foreground. The voice is accompanied by soft leash movement, light footsteps from the woman and the dog, and one clear dog bark exactly when the dog opens its mouth. [END_AUDIO_CAPTION]",
+    "audio_duration": 5.1
+  },
+  "./examples/videos/Generate_an_second_realistic (1).mp4": {
+    "resp": "[WORDS]These plants need water.[END_WORDS][AUDIO_CAPTION]A clear middle-aged male voice speaks over the soft, steady sound of water pouring from a watering can onto potted plants, followed by a small plastic thud as the watering can is set down.[END_AUDIO_CAPTION]",
+    "audio_duration": 5.1
+  },
+  "./examples/videos/Generate_an_second_realistic_103_0.mp4": {
+    "resp": "[WORDS]I’ll add this now.[END_WORDS][AUDIO_CAPTION]A clear elderly female voice speaks over sharp knife chops on a wooden cutting board, followed by a louder sizzling sound as the chopped green onions are dropped into the frying pan.[END_AUDIO_CAPTION]",
+    "audio_duration": 9.64
+  },
+  "./examples/videos/tmp_yt_test_keyboard_woman_06_replace_audio_103_0.mp4": {
+    "resp": "[WORDS]Hi, and welcome to the channel[END_WORDS][AUDIO_CAPTION]A woman types on a mechanical keyboard, followed by a powerful female voice speaking into a microphone.[END_AUDIO_CAPTION]",
+    "audio_duration": 8.708
+  },
+  "./examples/videos/key_board_2.mp4": {
+    "resp": "[WORDS]Hi, and welcome to the channel[END_WORDS][AUDIO_CAPTION]A woman types on a mechanical keyboard, followed by a  female voice speaking into a microphone.[END_AUDIO_CAPTION][MUSIC]Music is present in this clip. The style is soft soothing lifestyle background music. It features gentle piano, warm ambient pads, and subtle acoustic textures. The tempo is slow to medium. The mood is Calm, Warm, Relaxing, Welcoming. Style notes: light, pleasant background music .[END_MUSIC]",
+    "audio_duration": 10.375
+  },
+  "./examples/videos/12298_frames=0-179.mp4": {
+    "resp": "[AUDIO_CAPTION]A deep, continuous, low-pitched rumbling from a large diesel truck engine idling.[END_AUDIO_CAPTION]"
+  },
+  "./examples/videos/zA4lghGwsC8_frames_12600-13199_frames=0-179.mp4": {
+    "resp": "[AUDIO_CAPTION]A sequence of loud, sharp, metallic gunshots with distinct cracks and echoes, followed by the sound of a body falling. This is followed by more rapid, echoing gunshots and the sound of footsteps on a hard, paved surface.[END_AUDIO_CAPTION]"
+  }
+}
