@@ -9,7 +9,13 @@
 # Demo
 
 <p align="center">
-  <video src="assets/demo.mp4" controls muted width="100%"></video>
+  <a href="assets/demo.mp4">
+    <img src="assets/demo_preview.gif" alt="Foley-Omni demo preview" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  Click the preview to watch the full demo video.
 </p>
 
 
