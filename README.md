@@ -2,7 +2,7 @@
 
 **Foley-Omni: A Unified Multimodal Generation Model from Task-Level Audio Synthesis to Complete Video Soundtrack Generation**
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](ARXIV_LINK)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv)])
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Model-FFD21E?logo=huggingface&logoColor=000000)](https://huggingface.co/CocoBro/Foley-Omni)
 [![Demo](https://img.shields.io/badge/Demo-Video-2563eb?logo=youtube&logoColor=white)](assets/demo.mp4)
 
