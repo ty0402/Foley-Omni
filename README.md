@@ -112,7 +112,7 @@ Generated files will be written to `output_dir` and include:
 
 Single-video inference:
 
-1. Disable `json_file` in [inference_v2st.yaml](/taoye/open/foley-omni-blind/inference_v2st.yaml)
+1. Disable `json_file` in [inference_v2st.yaml](inference_v2st.yaml)
 2. Set `video_path`
 3. Set `text_prompt`
 4. Run:
@@ -124,7 +124,7 @@ python inference_v2st.py --config-file inference_v2st.yaml
 
 The batch example file is:
 
-- [examples/video_text_example.json](/taoye/open/foley-omni-blind/examples/video_text_example.json)
+- [examples/video_text_example.json](examples/video_text_example.json)
 
 Each JSON key is a video path.
 Each JSON value is a metadata object for soundtrack generation.
@@ -161,7 +161,7 @@ Notes:
 
 To pre-extract CLIP and Sync features, use:
 
-- [data_process/convert_memmap_to_npy.py](/taoye/open/foley-omni-blind/data_process/convert_memmap_to_npy.py)
+- [data_process/convert_memmap_to_npy.py](data_process/convert_memmap_to_npy.py)
 
 Example:
 
@@ -173,17 +173,17 @@ python data_process/convert_memmap_to_npy.py \
   --gpu_ids 0
 ```
 
-This script reads the input videos, extracts `clip_feature_path` and `sync_feature_path`, and writes an updated JSON manifest that can be used directly by [inference_v2st.py](/taoye/open/foley-omni-blind/inference_v2st.py).
+This script reads the input videos, extracts `clip_feature_path` and `sync_feature_path`, and writes an updated JSON manifest that can be used directly by [inference_v2st.py](inference_v2st.py).
 
 ## Text-Only Generation
 
 Representative text-only prompts are provided at:
 
-- [examples/text_example.jsonl](/taoye/open/foley-omni-blind/examples/text_example.jsonl)
+- [examples/text_example.jsonl](examples/text_example.jsonl)
 
 The default text-only config is:
 
-- [inference_fusion.yaml](/taoye/open/foley-omni-blind/inference_fusion.yaml)
+- [inference_fusion.yaml](inference_fusion.yaml)
 
 Run text-only generation with:
 
