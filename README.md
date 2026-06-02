@@ -40,8 +40,8 @@ The public release was verified in the `video` environment with:
 - FlashAttention 2.7.4.post1
 
 ```bash
-git clone CODE_REPO_LINK
-cd foley-omni-blind
+git clone https://github.com/ty0402/Foley-Omni.git
+cd Foley-Omni
 
 conda create -n foley-omni python=3.10 -y
 conda activate foley-omni
