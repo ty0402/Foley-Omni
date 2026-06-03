@@ -474,7 +474,6 @@ def main(config, args):
     target_dtype = torch.bfloat16
 
     json_file = config.get("json_file", None)
-    force_empty_text = bool(config.get("force_empty_text", False))
     
     if json_file is not None:
         logging.info(f"Loading JSON data from: {json_file}")
@@ -491,8 +490,6 @@ def main(config, args):
                 continue
             
             text_prompt = video_info.get("resp", "")
-            if force_empty_text:
-                text_prompt = ""
             clip_features_path = video_info.get("clip_feature_path", None)
             sync_features_path = video_info.get("sync_feature_path", None)
             
