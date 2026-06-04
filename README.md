@@ -39,7 +39,7 @@ Given a video and  text conditioning, Foley-Omni jointly generates synchronized 
 
 # Install
 
-The public release was verified in the `video` environment with:
+The public release was verified in the environment with:
 
 - Python 3.10
 - CUDA 12.4
