@@ -203,6 +203,7 @@ python inference.py --config-file inference_fusion.yaml
 - [x] Release model weights
 - [x] Release inference code
 - [ ] Release V2ST-Bench
+- [ ] Release Huggingface online demo
 
 # Acknowledgements
 
