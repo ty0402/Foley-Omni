@@ -63,7 +63,7 @@ pip install -r requirements.txt
 pip install flash_attn==2.7.4.post1 --no-build-isolation
 
 # Install the Hugging Face CLI
-pip install -U "huggingface_hub[cli]"
+pip install "huggingface_hub[cli]>=0.30.0,<1.0"
 ```
 
 ---
